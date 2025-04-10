@@ -1,0 +1,20 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "github Acrions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Testes running...\"",
+    "build": "echo \"Build specified...\"",
+    "deploy": "echo \"Deploying nes build to cloud server...\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrunoLagoa/github-actions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BrunoLagoa/github-actions.git/issues"
+  },
+  "author": "Bruno Castro",
+  "license": "ISC"
+}
